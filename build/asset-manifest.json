@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/alinamagasumova/static/css/main.804f9056.css",
+    "main.js": "/alinamagasumova/static/js/main.9b554a16.js",
+    "index.html": "/alinamagasumova/index.html",
+    "main.804f9056.css.map": "/alinamagasumova/static/css/main.804f9056.css.map",
+    "main.9b554a16.js.map": "/alinamagasumova/static/js/main.9b554a16.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.804f9056.css",
+    "static/js/main.9b554a16.js"
+  ]
+}
